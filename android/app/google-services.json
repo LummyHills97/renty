@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174390230237",
+    "project_id": "rentcarapp-d1e3e",
+    "storage_bucket": "rentcarapp-d1e3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174390230237:android:8872e318551ce0bae46f34",
+        "android_client_info": {
+          "package_name": "com.example.rentcar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlf8mn9uKEEKpTorjt3JoBNvUQEdHBWzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
